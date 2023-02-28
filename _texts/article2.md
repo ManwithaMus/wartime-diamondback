@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 65 Graduate
+title: Joe Biden State of the Union
 author: Anonymous
 editor: Aron Sipos
 permalink: /article4/
